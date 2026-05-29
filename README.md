@@ -1,6 +1,14 @@
 <div align="center">
 
-# 👋 Daniel Suranta
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=FFB800&center=true&vCenter=true&width=700&lines=Daniel+Suranta;Flutter+Mobile+Developer;UI+%2F+UX+Explorer;Modern+App+Enthusiast" />
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRpZ2h0cGJ4b2N2Y3NrdGQ0MnR0d2s3MTRjN2pnY2VvbnJnNjN2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
+
+<br>
+
+# 👋 Hello, I'm Daniel
 
 ### Mobile Developer • Flutter Enthusiast • UI Explorer
 
@@ -13,7 +21,8 @@ Passionate about building modern, responsive, and clean mobile applications usin
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
-<img src="https://img.shields.io/badge/UI%20Design-FFB800?style=for-the-badge">
+<img src="https://img.shields.io/badge/UI%20Design-FFB800?style=for-the-badge&logo=figma&logoColor=black">
+<img src="https://img.shields.io/badge/Responsive%20UI-121212?style=for-the-badge">
 
 <br><br>
 
@@ -31,43 +40,43 @@ Passionate about building modern, responsive, and clean mobile applications usin
 
 # 🧑‍💻 About Me
 
-Hi, I'm Daniel 👋
+```yaml
+name: Daniel Suranta
+role: Flutter Mobile Developer
+focus: Clean UI & Modern Mobile Experience
+location: Indonesia
+```
 
-I enjoy creating mobile applications with clean UI, responsive layouts, and smooth user experiences.  
-Focused on Flutter development, modern design, and scalable application structures.
+<br>
 
----
+✨ I enjoy creating mobile applications with:
 
-# 🚀 Skills
-
-- Flutter Development
-- Dart Programming
-- Responsive UI Design
-- Firebase & Supabase
-- REST API Integration
-- Mobile App Architecture
-
----
-
-# 📱 Technologies
-
-| Technology | Usage |
-|---|---|
-| Flutter | Mobile Framework |
-| Dart | Programming Language |
-| Supabase | Backend Service |
-| GitHub | Version Control |
+- Responsive UI
+- Smooth user experience
+- Clean architecture
+- Modern mobile design
+- Efficient performance
 
 ---
 
-# ✨ Current Focus
+# 🚀 Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,vscode,figma,androidstudio" />
+
+</div>
+
+---
+
+# ⚡ Current Focus
 
 <details>
 <summary><strong>📱 Mobile Development</strong></summary>
 
 <br>
 
-Building responsive and modern Flutter applications with clean architecture and optimized performance.
+Building responsive Flutter applications with elegant design and scalable architecture.
 
 </details>
 
@@ -78,7 +87,7 @@ Building responsive and modern Flutter applications with clean architecture and 
 
 <br>
 
-Designing minimalist interfaces with smooth navigation and modern mobile experiences.
+Designing modern interfaces inspired by minimalist and premium mobile experiences.
 
 </details>
 
@@ -89,59 +98,84 @@ Designing minimalist interfaces with smooth navigation and modern mobile experie
 
 <br>
 
-Integrating applications with cloud services such as Supabase and REST APIs.
+Connecting applications with cloud services and realtime databases.
 
 </details>
 
 ---
 
-# 📂 Project Structure Example
+# 📊 GitHub Analytics
 
-```text
-lib/
-├── models/
-├── pages/
-├── services/
-├── widgets/
-└── main.dart
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB800"/>
+
+</div>
 
 ---
 
-# 🎨 Favorite Color Palette
+# 🔥 Activity Graph
 
-| Element | Color |
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=FFB800&line=FFB800&point=FFFFFF&hide_border=true)](https://github.com/yourusername)
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+<div align="center">
+
+| Technology | Description |
 |---|---|
-| Background | `#121212` |
-| Secondary | `#1E1E1E` |
-| Accent | `#FFB800` |
-| Text | `#FFFFFF` |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+| Flutter | Mobile Framework |
+| Dart | Programming Language |
+| Supabase | Backend Service |
+| Firebase | Cloud Integration |
+| GitHub | Version Control |
 
 </div>
 
 ---
 
-# 🌐 Connect
+# 🎨 Favorite Palette
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+| Color | Hex |
+|---|---|
+| 🖤 Dark Background | `#121212` |
+| 🌑 Secondary | `#1E1E1E` |
+| 💛 Accent | `#FFB800` |
+| 🤍 Text | `#FFFFFF` |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://instagram.com/yourusername">
+<img src="https://img.shields.io/badge/Instagram-FFB800?style=for-the-badge&logo=instagram&logoColor=black">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFB800&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile
 
