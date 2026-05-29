@@ -1,94 +1,324 @@
+# 🟡 URBAN WEAR — Premium Flutter Marketplace
+
 <div align="center">
 
-  <!-- HERO TITLE & BRANDING (SAWERIA COLOR THEME) -->
-  <img src="https://img.shields.io/badge/PROYEK-URBAN__WEAR-FFB000?style=for-the-badge&logoColor=black&labelColor=121212" alt="Urban Wear">
-  <br>
-  <p><strong>Crafting the Future of Digital Commerce Experiences</strong></p>
+<img src="https://img.shields.io/badge/PROYEK-URBAN__WEAR-FFB000?style=for-the-badge&logoColor=black&labelColor=121212" alt="Urban Wear">
 
-  <!-- TECH BADGES (Clean Minimalist Saweria Style) -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20iOS-3DDC84?style=flat&logo=android&logoColor=white" alt="Platforms">
-  
-  <br><br>
+<br>
+<br>
 
-  <!-- CALL TO ACTION BUTTONS -->
-  <a href="https://berdiri.github.io/Flutter_App/"><strong>🌐 Live Demo App</strong></a> &nbsp;&bull;&nbsp; 
-  <a href="https://docs.flutter.dev/"><strong>📖 Flutter Documentation</strong></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FFB000&center=true&vCenter=true&width=700&lines=Premium+Flutter+Marketplace+Application;Modern+UI+Inspired+by+Saweria;Fast+%2B+Responsive+%2B+Elegant+Experience" alt="Typing SVG" />
+
+<br>
+
+<p>
+  <strong>
+    Crafting the Future of Digital Commerce Experiences
+  </strong>
+</p>
+
+<p align="center">
+  Urban Wear adalah aplikasi marketplace fashion modern berbasis Flutter dengan desain elegan, performa tinggi, dan pengalaman pengguna yang smooth seperti platform digital premium.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Responsive_UI-FFB000?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/Android-iOS-121212?style=for-the-badge&logo=android&logoColor=3DDC84">
+
+<br>
+<br>
+
+<a href="https://berdiri.github.io/Flutter_App/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FFB000?style=for-the-badge&logoColor=black&labelColor=121212">
+</a>
+
+<a href="https://docs.flutter.dev/">
+  <img src="https://img.shields.io/badge/📖_FLUTTER_DOCS-121212?style=for-the-badge&logoColor=white&labelColor=FFB000">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Lead Developer
+# 🎨 Visual Design Concept
 
-<div align="left">
-  <!-- Profile Table with Saweria Accent Border -->
-  <table border="0">
-    <tr style="background-color: #121212;">
-      <td style="border-left: 5px solid #FFB000; padding: 15px;">
-        <h3 style="color: #FFB000; margin: 0;">Daniel Suranta</h3>
-        <p style="color: #E0E0E0; margin: 5px 0 0 0;"><strong>Mobile Programmer & System Architect</strong></p>
-        <p align="justify" style="color: #A0A0A0; font-size: 0.95em;">
-          Dedicated to building high-performance, responsive, and aesthetically pleasing mobile applications. Focusing on modern architectures, clean code principles, and seamless user journeys to transform complex business ideas into elegant digital solutions.
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+| UI Element | Color | Description |
+|---|---|---|
+| Primary Accent | `#FFB000` | Saweria premium yellow |
+| Main Background | `#121212` | Elegant dark modern UI |
+| Secondary Background | `#1E1E1E` | Card & popup container |
+| Text Primary | `#FFFFFF` | Main typography |
+| Text Secondary | `#BDBDBD` | Soft description text |
+| Border Accent | `#FFB000` | Interactive highlight |
+
 </div>
 
 ---
 
-## ⚡ Interactive Features & Core Info (Klik untuk Pop-Up)
+# 👨‍💻 Lead Developer
 
-*Klik pada salah satu menu di bawah ini untuk membuka detail pop-up UI interaktif:*
+<div align="center">
 
-<details style="border: 1px solid #E0E0E0; border-radius: 8px; padding: 10px; margin-bottom: 10px; background-color: #fafafa;">
-  <summary style="font-weight: bold; color: #121212; cursor: pointer; list-style: none;">
-    ✨ 👕 Klik untuk detail: Product Catalog
-  </summary>
-  <div style="margin-top: 10px; padding: 15px; background: #121212; color: #E0E0E0; border-radius: 6px; border-left: 4px solid #FFB000;">
-    <strong>Premium Showcase</strong><br>
-    Eksplorasi katalog pakaian urban dengan sistem filter dinamis dan <em>smooth image caching</em> untuk menghemat kuota data tanpa membebani performa perangkat.
-  </div>
-</details>
+<table>
+<tr>
+<td width="170" align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120">
+</td>
+<td>
 
-<details style="border: 1px solid #E0E0E0; border-radius: 8px; padding: 10px; margin-bottom: 10px; background-color: #fafafa;">
-  <summary style="font-weight: bold; color: #121212; cursor: pointer; list-style: none;">
-    ✨ 🛒 Klik untuk detail: Cart & Checkout
-  </summary>
-  <div style="margin-top: 10px; padding: 15px; background: #121212; color: #E0E0E0; border-radius: 6px; border-left: 4px solid #FFB000;">
-    <strong>Seamless Transaction</strong><br>
-    Manajemen keranjang belanja yang responsif dilengkapi alur transaksi yang aman, ringkas, kalkulasi pajak otomatis, dan metode pembayaran yang intuitif.
-  </div>
-</details>
+## Daniel Suranta
+### Mobile Programmer & System Architect
 
-<details style="border: 1px solid #E0E0E0; border-radius: 8px; padding: 10px; margin-bottom: 10px; background-color: #fafafa;">
-  <summary style="font-weight: bold; color: #121212; cursor: pointer; list-style: none;">
-    ✨ ❤️ Klik untuk detail: Wishlist
-  </summary>
-  <div style="margin-top: 10px; padding: 15px; background: #121212; color: #E0E0E0; border-radius: 6px; border-left: 4px solid #FFB000;">
-    <strong>Personal Collection</strong><br>
-    Simpan pakaian dan outfit favorit Anda secara instan ke dalam daftar personal dengan satu ketukan untuk referensi gaya belanja Anda di kemudian hari.
-  </div>
-</details>
+Dedicated to building high-performance, responsive, and aesthetically pleasing mobile applications.
 
-<details style="border: 1px solid #E0E0E0; border-radius: 8px; padding: 10px; margin-bottom: 10px; background-color: #fafafa;">
-  <summary style="font-weight: bold; color: #121212; cursor: pointer; list-style: none;">
-    ✨ 👤 Klik untuk detail: User Profile
-  </summary>
-  <div style="margin-top: 10px; padding: 15px; background: #121212; color: #E0E0E0; border-radius: 6px; border-left: 4px solid #FFB000;">
-    <strong>Account Hub</strong><br>
-    Pusat kendali akun pengguna untuk memantau status pengiriman barang secara <em>real-time</em>, histori transaksi, serta pengaturan alamat multi-destinasi.
-  </div>
+Focusing on:
+
+- ⚡ Modern Flutter Architecture
+- 🎨 Clean & Elegant UI/UX
+- 🚀 High Performance Rendering
+- 🔒 Secure Authentication System
+- ☁️ Cloud-Based Infrastructure
+- 📱 Responsive Mobile Experience
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ Premium Interactive Features
+
+<div align="center">
+
+> Klik setiap fitur di bawah untuk membuka popup detail interaktif.
+
+</div>
+
+---
+
+<details>
+<summary>
+
+# 👕 Product Catalog
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="background-color:#121212;padding:20px;border-radius:14px;border-left:6px solid #FFB000;">
+
+## ✨ Premium Showcase Experience
+
+Eksplorasi koleksi fashion urban modern dengan pengalaman browsing yang cepat, smooth, dan elegan.
+
+### 🔥 Highlights
+
+- Dynamic Product Filtering
+- Fast Image Caching
+- Smooth Hero Animation
+- Responsive Product Grid
+- Real-Time Product Loading
+- Premium UI Experience
+
+---
+
+### 🎯 User Experience
+
+✔ Navigasi ringan
+
+✔ Loading cepat
+
+✔ Hemat data internet
+
+✔ Scroll ultra smooth
+
+✔ Tampilan modern dark mode
+
+</td>
+</tr>
+</table>
+
+</div>
+
 </details>
 
 ---
 
-## 🚀 Quick Start
+<details>
+<summary>
 
-Dapatkan salinan lokal proyek dan jalankan di environment Anda dalam hitungan menit:
+# 🛒 Cart & Checkout System
 
-### 1. Environment Check
-```bash
-flutter doctor
+</summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="background-color:#121212;padding:20px;border-radius:14px;border-left:6px solid #FFB000;">
+
+## 💳 Seamless Transaction Experience
+
+Sistem checkout modern dengan tampilan premium dan proses transaksi yang aman.
+
+### ⚡ Checkout Features
+
+- Smart Cart Management
+- Automatic Tax Calculation
+- Responsive Checkout Page
+- Real-Time Total Price
+- Clean Payment Flow
+- Elegant Order Summary
+
+---
+
+### 🔐 Security Layer
+
+✔ Secure Authentication
+
+✔ Cloud Database Integration
+
+✔ User Session Protection
+
+✔ Safe Checkout Process
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# ❤️ Wishlist Feature
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="background-color:#121212;padding:20px;border-radius:14px;border-left:6px solid #FFB000;">
+
+## 🌟 Personal Favorite Collection
+
+Simpan produk favorit hanya dengan satu klik dan bangun koleksi outfit impian pengguna.
+
+### ✨ Wishlist Advantages
+
+- Instant Favorite Save
+- Responsive Love Animation
+- Personal Collection Page
+- Fast Sync Database
+- User Friendly Interaction
+
+---
+
+### 🎯 Benefit
+
+✔ Belanja lebih cepat
+
+✔ Outfit tersimpan otomatis
+
+✔ User engagement lebih tinggi
+
+✔ Pengalaman aplikasi lebih personal
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# 👤 User Profile Dashboard
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="background-color:#121212;padding:20px;border-radius:14px;border-left:6px solid #FFB000;">
+
+## 📦 Smart User Management
+
+Pusat kontrol pengguna modern untuk mengatur aktivitas akun secara lengkap.
+
+### 🚀 Main Features
+
+- Real-Time Order Tracking
+- Transaction History
+- Multi Address Management
+- Profile Customization
+- Secure Login Session
+- Logout Protection System
+
+---
+
+### ⚡ Experience
+
+✔ Interface minimalis premium
+
+✔ Informasi mudah dipahami
+
+✔ Tracking lebih cepat
+
+✔ Modern account dashboard
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+---
+
+# 🖼️ Modern UI Showcase
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────┐
+│            URBAN WEAR              │
+│     Premium Fashion Marketplace     │
+├─────────────────────────────────────┤
+│ 🔍 Search Product...               │
+├─────────────────────────────────────┤
+│ 👕 Hoodie        Rp 250.000        │
+│ 👟 Sneakers      Rp 420.000        │
+│ 🧥 Jacket        Rp 350.000        │
+├─────────────────────────────────────┤
+│ ❤️ Wishlist    🛒 Cart    👤 User │
+└─────────────────────────────────────┘
